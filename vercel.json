@@ -11,11 +11,5 @@
       "src": "/(.*)",
       "dest": "app.py"
     }
-  ],
-  "excludes": [
-    "large_model.pkl",
-    "unused_data/",
-    "__pycache__/"
   ]
-  
 }
